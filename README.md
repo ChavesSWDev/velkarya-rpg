@@ -9,8 +9,9 @@
 [![Live](https://img.shields.io/badge/Live_site-velkarya.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://velkarya.vercel.app/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 </div>
 
@@ -26,14 +27,14 @@ The website is the gateway to that world: an immersive, scroll-driven experience
 
 ## Highlights
 
-- 🗺️ **Scroll-driven storytelling** — the page walks the visitor across the world map, region by region.
-- 🏰 **Rich world-building** — regions, capitals, factions and lore presented as an interactive chronicle.
-- 🎲 **Online tabletop RPG** — a platform for groups to play sessions together in the browser.
-- ⚡ **Fast and responsive** — built with React and Vite, deployed on Vercel.
+- 🎲 **Real-time table on Firestore** — the whole party sees every dice roll at once.
+- 🧊 **3D dice with Three.js** — physical-feeling rolls right in the browser.
+- 🗺️ **Cinematic world map** — scroll-driven storytelling across the continent with GSAP.
+- 🧙 **Accounts, player dashboard and campaigns** — plus a rules system with 11 playable races.
 
 ## Tech stack
 
-`React` · `Vite` · `JavaScript` · `CSS animations` · `Vercel`
+`React` · `Three.js` · `Firebase (Auth, Firestore)` · `Zustand` · `GSAP` · `Framer Motion` · `Vite` · `Vercel`
 
 ## Author
 
